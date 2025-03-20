@@ -1,4 +1,4 @@
-export const Description = () => {
+const Description = () => {
   return (
     <>
       <h1 className="title">Sip Happens Café</h1>
@@ -9,3 +9,5 @@ export const Description = () => {
     </>
   );
 };
+
+export default Description;

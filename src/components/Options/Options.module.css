@@ -1,0 +1,10 @@
+.wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.btn {
+  border-radius: 5px;
+  border: 1px solid black;
+}
